@@ -5,7 +5,7 @@ The Utility Hasher has many uses. It can hash these file types:
 
 ZIP, MP3, WAV, TXT, MD, PY, JS, PS1, TAR, 7Z, ect.
 
-It can hash many things. But how? Simple!
+It can hash many things. But how? Simple! (This requires Python >=3.13)
 
 Step 1: Download the ZIP (Code > Download as ZIP).
 Step 2: Extract contents to the Desktop.
