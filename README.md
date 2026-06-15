@@ -34,9 +34,6 @@ It's that easy!
 
 I in the USA hope that you see to good use of this.
 
-
-DISCLAIMER: Once downloaded, do not edit the Python script to hash every single file in the C: drive or in any other way. Doing this can cause extreme destruction of your computer and is not at all recommended.
-
 Thank you.
 
 -Melted
